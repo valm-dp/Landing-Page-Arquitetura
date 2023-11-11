@@ -1,6 +1,6 @@
 # Projeto Landing-Page Aquitetura
 
-![Projeto-arq](./Imagens/Arquitetura.png)
+![Projeto-arq](./Imagens-Readme/Arquitetura.png)
 
 um projeto  simples desenvolvido para ser a Landing-page de uma empresa de Arquitetura. 
 
@@ -31,10 +31,10 @@ um projeto  simples desenvolvido para ser a Landing-page de uma empresa de Arqui
 
 ## Layout
 ### Cabeçario
-![Nome-e-frase](./Imagens/Projeto-arq.png)
+![Nome-e-frase](./Imagens-Readme/Projeto-arq.png)
 
 ### Corpo 
-![Nome-e-frase](./Imagens/corpo.png)
+![Nome-e-frase](./Imagens-Readme/corpo.png)
 
 com informações sobre a "empresa" e fotos (com a possibilidade de implementação do js para um slide)
 
@@ -44,7 +44,7 @@ com informações sobre a "empresa" e fotos (com a possibilidade de implementaç
 
 ### Formulario
 
-![Nome-e-frase](./Imagens/Formulario.png)
+![Nome-e-frase](./Imagens-Readme/Formulario.png)
 
  o mesmo sendo totalmente responsivel ao mouse !
 
@@ -69,7 +69,7 @@ com informações sobre a "empresa" e fotos (com a possibilidade de implementaç
 
 Exemplo:
 
-![Nome-e-frase](./Imagens/Planilha.png)
+![Nome-e-frase](./Imagens-Readme/Planilha.png)
 
 ### Tecnologias Utilizadas:
 - [Vs-Code](https://code.visualstudio.com/)
