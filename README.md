@@ -80,5 +80,5 @@ Exemplo:
 ## Pessoas Autoras:
 - Valmir Domingues Pedroso 
 
-  Meu [Linkedin]() Pra vocês!! 🙂
+  Meu [Linkedin](https://www.linkedin.com/in/valmir-domingues-98b4b01b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bj9K8YEujQUi0mJwmQnpZ%2Bg%3D%3D) Pra vocês!! 🙂
 
